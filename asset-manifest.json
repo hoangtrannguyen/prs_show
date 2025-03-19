@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prs_pdf/static/css/main.10853a3d.css",
+    "main.js": "/prs_pdf/static/js/main.53bc9836.js",
+    "static/js/453.e2c43e62.chunk.js": "/prs_pdf/static/js/453.e2c43e62.chunk.js",
+    "index.html": "/prs_pdf/index.html",
+    "main.10853a3d.css.map": "/prs_pdf/static/css/main.10853a3d.css.map",
+    "main.53bc9836.js.map": "/prs_pdf/static/js/main.53bc9836.js.map",
+    "453.e2c43e62.chunk.js.map": "/prs_pdf/static/js/453.e2c43e62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10853a3d.css",
+    "static/js/main.53bc9836.js"
+  ]
+}
