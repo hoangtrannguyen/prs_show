@@ -1,8 +1,20 @@
 import React, { useState } from "react";
 const files = [
-  { image: "1.png", pdf: "1.pdf", text: "Tiếng Anh" },
-  { image: "2.png", pdf: "2.pdf", text: "Tiếng Việt" },
-  { image: "3.png", pdf: "3.pdf", text: "Tiếng Trung" },
+  {
+    image: "3.png",
+    pdf: "Ping Roun Group Catalogue.pdf",
+    text: "Ping Roun Group Catalogue",
+  },
+  {
+    image: "1.png",
+    pdf: "屏婁榘舀荣舁食品中文產品目錄.pdf",
+    text: "屏婁榘舀荣舁食品中文產品目錄",
+  },
+  {
+    image: "2.png",
+    pdf: "屏栄食品グル-プカタログ.pdf",
+    text: "屏栄食品グル-プカタログ",
+  },
 ];
 
 export default function PdfViewer() {
